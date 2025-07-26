@@ -4,3 +4,4 @@ build/
 *.o
 *.elf
 *.img
+src/kernel/stage2.c
